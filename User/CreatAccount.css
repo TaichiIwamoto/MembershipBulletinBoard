@@ -1,0 +1,26 @@
+body {
+    background-color: #FFFFEE;
+}
+
+/*Loginフォーム全体を中央寄せ*/
+.form {
+    text-align: center;
+}
+
+/*入力フォームのpalceholder位置とmargin設定*/
+.inputString {
+    text-align: center;
+    margin: 1%;
+}
+
+/*ログインフォームを中央寄せ　枠は丸み*/
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1%;
+    background-color: white;
+    border: solid 3px #CCFFFF;
+    border-radius: 10px;
+}

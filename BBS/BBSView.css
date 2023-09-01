@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: #EEEEEE;
+}
+
+.header1 {
+    padding-left: 25%;
+    background-color: #EEEEEE;
+}
+
+.header2 {
+    text-align: right;
+    color: white;
+    background: #CC3333;
+}
+
+.headerButton {
+    font-size: 130%;
+    border: none;
+    color: white;
+    background: transparent;
+    padding: 1%;
+}
+
+.headerButton:hover {
+    color: red;
+    background-color: white;
+}
+
+.threadName {
+    font-weight: bold;
+}
+
+.viewThread {
+    text-align: center;
+    font-size: 120%;
+}
+
+#loadImage{
+    width: 300px;
+    height: auto;
+}

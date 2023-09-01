@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-color: #EEEEEE;
+}
+
+.header1 {
+    padding-left: 25%;
+    background-color: #EEEEEE;
+}
+
+.header2 {
+    text-align: right;
+    background: #CC3333;
+}
+
+/* ヘッダのボタンcss サービス情報やアップデート情報など */
+.headerButton {
+    font-size: 130%;
+    border: none;
+    color: white;
+    background: transparent;
+    padding: 1%;
+}
+
+.headerButton:hover {
+
+    color: red;
+    background-color: white;
+}
+
+.viewProfile{
+    text-align: left;
+    background: #DDDDDD;
+    width: 50%;
+    margin: auto;   
+}
+
+.profileDetail{
+    background: white;
+    width: 95%;
+    margin: auto;
+}
+
+#editButton{
+    position: relative;
+    left: 50%;
+}
