@@ -15,8 +15,8 @@ session_start();
     <script src="../js/bootstrap.min.js"></script>
     <?php
     $dsn = 'mysql:dbname=tb250205db;host=localhost';
-    $user = 'tb-250205';
-    $password = 'ZyHZaYsz5T';
+    $user = '*********';
+    $password = '********';
     $pdo = new PDO($dsn, $user, $password, array(PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
     include_once("../Util/SessionManage.php");
     if (!empty($_GET["userName"])) {
