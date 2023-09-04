@@ -7,7 +7,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="Login.css" type="text/css">
-    <title>会員制掲示板システムへようこそ</title>
+    <title>会員制掲示板システムへようこそ!!!</title>
 </head>
 
 <body>
