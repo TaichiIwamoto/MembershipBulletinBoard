@@ -15,6 +15,7 @@ session_start();
     <script src="../js/bootstrap.min.js"></script>
     <div class="header1">
         <h1>会員制掲示板システム</h1>
+
     </div>
 
     <div class="header2">
